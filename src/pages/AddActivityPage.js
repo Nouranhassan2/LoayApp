@@ -40,4 +40,7 @@ function AddActivityPage() {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 672ad974a51c59fe7814f3272d6195be038299d7
 export default AddActivityPage;*/
